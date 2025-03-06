@@ -36,6 +36,7 @@ This project performs **Sentiment Analysis** on Amazon product reviews using **N
 ├── 📜 sentiment_analysis.py  # Main script
 ├── 📜 README.md  # Project documentation
 ├── 📜 requirements.txt  # Required dependencies
+```
 
 ## 📊 Data Preprocessing & Feature Engineering  
 - Removed punctuation, numbers, and stopwords  
@@ -63,4 +64,33 @@ This project performs **Sentiment Analysis** on Amazon product reviews using **N
 ### 1️⃣ Clone the repository:  
 ```bash
 git clone https://github.com/yourusername/sentiment-analysis-ml.git
+```
+### 2️⃣ Install dependencies:  
 ```bash
+pip install -r requirements.txt
+```
+
+### 3️⃣ Run the analysis:  
+```bash
+python sentiment_analysis.py
+```
+
+## 🏆 Future Improvements  
+- Integrating **LSTM or Transformer-based models** for improved accuracy  
+- Deploying as a **REST API for real-time sentiment analysis**  
+- Expanding dataset and fine-tuning hyperparameters  
+
+---
+
+## 🤝 Contributing  
+Feel free to **fork this repository**, submit issues, and make pull requests!  
+
+---
+
+## 📌 Author  
+👤 **Ayşe Nur Özer**  
+🔗 [LinkedIn](https://linkedin.com/in/ayse-nur-ozer) | [GitHub](https://github.com/ozeraysenur)  
+
+---
+
+**⭐ If you find this project useful, please give it a star!** ⭐  
